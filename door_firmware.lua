@@ -1,6 +1,6 @@
 local PASSWORD = "secret"
 local DOOR_SIDE = "back"
-local TIMEOUT = 30
+local TIMEOUT = 10
 
 local function showPrompt()
     term.clear()
